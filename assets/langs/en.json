@@ -1,0 +1,32 @@
+{
+  "app_name": "Go Digital ",
+  "Skip": "Skip",
+
+  "text_splash_11": "Numerous free\n trial courser",
+  "text_splash_12": "Free courses for you to find\n your way to learning",
+  "text_splash_21": "Quick and easy\n learning",
+  "text_splash_22": "Easy and fast learning at any\n time to help you improve\n various skills",
+  "text_splash_31": "Create your own\n study plan",
+  "text_splash_32": "Study according to the study\n plan, make study more\n motivated",
+
+  "Sign_up": "Sign Up",
+  "Log_in": "Log In",
+  "Sing_up_header": "Enter your details below & free sign up",
+  "your_phone": "Phone Number",
+  "confirm_password": "Confirm Password",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "your_email": "Your Email",
+  "password": "Password",
+  "create_account": "Create Account",
+  "checkbox_title": "By creating an account you have to agree\nwith our them & condication.",
+  "already_account": "Already have an account？ ",
+  "forgot_password": "Forgot password?",
+  "do_not_have_account": "Don’t have an account?",
+  "or_login_with": "Or login with",
+  "phone": "Continue with Phone",
+  "enter_phone_num": "Enter Your  Phone Number",
+  "continue": "Continue",
+  "verify": "verify",
+  "Code_sent": "Code is sent to "
+}
